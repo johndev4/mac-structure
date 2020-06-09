@@ -10,4 +10,4 @@ This software helps you to format the MAC Address or Physical Address to put it 
 
 #
 
-Software Download Link: https://bit.ly/2yDRr5E
+Software Download Link: https://shorturl.at/ivHJK
