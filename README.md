@@ -6,7 +6,6 @@ This software helps you to format the string of MAC Address or Physical Address.
 
 ## Screenshots:
 <img width="418" alt="Annotation 2019-08-04 162731" src="https://user-images.githubusercontent.com/47683574/62421534-e94df380-b6d5-11e9-80b8-3d3abfe0ddea.png">
-<img width="420" alt="Annotation 2019-08-04 162751" src="https://user-images.githubusercontent.com/47683574/62421554-1a2e2880-b6d6-11e9-99bd-25b576b8b2ce.png">
 
 #
 
