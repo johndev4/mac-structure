@@ -10,3 +10,6 @@ This software helps you to format the string of MAC Address or Physical Address.
 #
 
 Software Download Link: http://www.mediafire.com/file/ixwln92njlfpmvk/Mac_Structure_v1.0.0.rar/file
+SHA1: 98c36414af798de83cad6d474607f127cdf6e37c
+SHA256: ce7aa1815809b4c049efe1d6a81aef9a5d71523d4666ff74aafc9ca6195a94ea
+MD5: e42c3b36e9b86f759a2d0a5876b60141
