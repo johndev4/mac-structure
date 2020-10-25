@@ -10,4 +10,4 @@ This software helps you to format the string of MAC Address or Physical Address 
 
 #
 
-Software Download Link: https://shorturl.at/ivHJK
+Software Download Link: http://www.mediafire.com/file/ixwln92njlfpmvk/Mac_Structure_v1.0.0.rar/file
