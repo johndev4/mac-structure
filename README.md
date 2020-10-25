@@ -1,6 +1,6 @@
 Mac Structure
 ===================================
-This software helps you to format the MAC Address or Physical Address to put it in your database. You can choose either formal or informal, or simply customize the configuration.
+This software helps you to format the string of MAC Address or Physical Address to put it in your database. You can choose either formal or informal, or simply customize the configuration.
 
 #
 
